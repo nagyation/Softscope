@@ -32,7 +32,7 @@ class SignalPlotter:
     def addAmp(self,amp):
         self.amp = list(amp)
         self.__manageSignal()
-        print(len(self.amp) , " and " ,len(self.time))
+
     def draw(self):
         plt.gca().lines[0].set_xdata(self.time);
         plt.gca().lines[0].set_ydata(self.amp);
