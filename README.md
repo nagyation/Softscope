@@ -6,6 +6,6 @@ We also made simple signal generator for the trial purpose <br>
 
 ## Notes
 The measurents of the Axis are so ugly and need to be fixed <br>
-this software is won't be updated anytime soon <br>
+this software won't be updated anytime soon <br>
 
 
